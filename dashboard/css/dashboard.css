@@ -1,5 +1,5 @@
 body {
-    padding: 48px;
+    padding-top: 48px;
 }
 
 .sidebar {
@@ -18,7 +18,7 @@ body {
 }
 
 .sidebar .nav-link {
-    font-weight: normal;
+    font-weight: 500;
     color: #333;
 }
 
