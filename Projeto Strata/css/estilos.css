@@ -31,7 +31,7 @@ body {
     position: relative;
 }
 
-.card a::before { /*  */
+.card a::before { /* colocando escuridao no cardvvv */
     background-image: url(images/overlay.png);
     border-radius: 0.35rem;
     content: '';
